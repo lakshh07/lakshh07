@@ -3,10 +3,10 @@
 Hi, I am Lakshay an aspiring Blockchain and Full Stack Developer and always thirsty to learn new technology stacks and challenge myself in different scenarios and situations. I love to combine my passion for learning with my developing skills to continue enriching myself.
   
 - 💬 Ask me about anything, I am happy to help;
-- 📝 [Resume](https://lakshh07.github.io/portfolio/src/media/Lakshay_Resume.pdf)
-- 📝 [Website](https://lakshh07.github.io/portfolio/)
+<!-- - 📝 [Resume](https://lakshh07.github.io/portfolio/src/media/Lakshay_Resume.pdf) -->
+- 📝 [Website](https://lakshaymaini.netlify.app/)
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lakshh07&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
 </details>
@@ -14,7 +14,7 @@ Hi, I am Lakshay an aspiring Blockchain and Full Stack Developer and always thir
 <details>
   <summary>:zap: Languages</summary>
   <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshh07&layout=compact&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
-</details>
+</details> -->
 
 <!---
 ![](https://visitor-badge.glitch.me/badge?page_id=lucifernipun22.lucifernipun22)
