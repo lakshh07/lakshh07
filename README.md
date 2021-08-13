@@ -4,7 +4,7 @@ Hi, I am Lakshay an aspiring Blockchain and Full Stack Developer and always thir
   
 - 💬 Ask me about anything, I am happy to help;
 <!-- - 📝 [Resume](https://lakshh07.github.io/portfolio/src/media/Lakshay_Resume.pdf) -->
-- 📝 [Website](https://lakshaymaini.netlify.app/)
+- 📝 [Website](https://lakshaymaini.ml/)
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
