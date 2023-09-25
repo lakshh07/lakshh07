@@ -7,6 +7,7 @@ I am Lakshay an aspiring Full Stack Blockchain Developer and always thirsty to l
  - 📫 [Twitter](https://twitter.com/lakshaymaini_)
  - ⛓ [Resume](https://resume.lakshaymaini.com)
  - ⛓ [Blog](https://blog.lakshaymaini.com)
+ - ⛓ [LeetCode](https://leetcode.com/lakshh07/)
 
 <!-- - 📝 [Website](https://lakshaymaini.com/) -->
 
