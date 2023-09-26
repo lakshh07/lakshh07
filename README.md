@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px" >
+**Hey There** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/>
 
 I am Lakshay an aspiring Full Stack Blockchain Developer and always thirsty to learn new technology stacks and challenge myself in different scenarios and situations. Combining my passion for learning with my developing skills is what I love to do, as it helps me continue to enrich myself. 
 
