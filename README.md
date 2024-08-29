@@ -8,4 +8,4 @@ I’m Lakshay, an aspiring Full Stack Blockchain Developer with a passion for le
 - 📃  &nbsp;[Resume](https://resume.lakshaymaini.com)
 - 💬  &nbsp;[Blog](https://blog.lakshaymaini.com)
 
-📫 Any new ideas or opportunities? Email me: hello@lakshaymaini.com
+📫 Any new ideas or opportunities? ping me: hello@lakshaymaini.com
